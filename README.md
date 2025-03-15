@@ -75,5 +75,5 @@ The dataset includes the following features:
 
 ## Results  
 - **Baseline Regressor**: Achieved reasonable performance on the test set.  
-- **Deep Learning Model**: Improved performance over the baseline regressor, especially in handling complex relationships between features.  
+- **Deep Learning Model**: The performance was slightly worse than the baseline regressor.  
 
